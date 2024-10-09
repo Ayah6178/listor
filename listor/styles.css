@@ -1,0 +1,14 @@
+/* Anpassar stilen för oordnade listor */
+ul {
+    list-style-type: square;
+}
+
+/* Anpassar stilen för ordnade listor */
+ol {
+    list-style-type: upper-roman;
+}
+
+/* Anpassar stilen för nestade oordnade listor */
+ul ul {
+    list-style-type: circle;
+}
